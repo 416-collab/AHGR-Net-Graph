@@ -1,6 +1,6 @@
 # AHGR-Net: Adaptive Heterogeneous Graph Reasoning for Interpretable Multimodal Sentiment Analysis
 
-[![Paper](https://img.shields.io/badge/Paper-International%20Journal%20of%20Intelligent%20Systems-blue)](https://github.com/mshaban7416/Graph_AHGR_NET)
+[![---)]()
 [![Python 3.10](https://img.shields.io/badge/Python-3.10-green.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
 
