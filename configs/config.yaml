@@ -1,0 +1,15 @@
+aspect_loss_weight: 0.05
+audio_dim: 74
+batch_size: 16
+device: cuda
+epochs: 15
+hidden_dim: 256
+lr: 5.0e-05
+max_context: 3
+num_aspects: 12
+num_classes: 7
+seed: 42
+test_size: 600
+text_dim: 768
+train_size: 3000
+val_size: 600

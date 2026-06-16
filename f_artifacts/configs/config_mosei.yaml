@@ -1,0 +1,15 @@
+seed: 42
+device: cuda
+num_classes: 2
+text_dim: 128
+audio_dim: 1
+hidden_dim: 128
+num_aspects: 12
+batch_size: 64
+epochs: 20
+lr: 0.00003
+max_context: 3
+aspect_loss_weight: 0.03
+train_path: data/raw/MOSEI/train.features
+val_path: data/raw/MOSEI/val.features
+test_path: data/raw/MOSEI/test.features

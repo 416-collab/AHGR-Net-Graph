@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Data files - do not commit large datasets
+data/raw/
+*.pkl
+*.features
+*.csd
+*.vectors
+*.zip
+*.tar.gz
+
+# Checkpoints and logs
+checkpoints/
+logs/
+archive_outputs/
+archive_checkpoints/
+archive_outputs.tar.gz
+archive_checkpoints.tar.gz
+
+# Large experiment outputs
+outputs/*partial*.csv
+
+# Keep final result CSVs if needed
+!outputs/final_publication_results_table.csv
+!outputs/paper_table_main_results.md
+!outputs/final_project_results_summary_v5.csv
+!outputs/chsims_final_selected_results.csv
+!outputs/mosei_final_selected_results_v2.csv
+!outputs/mosi_weighted_trimodal_selected.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
